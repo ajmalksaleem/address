@@ -14,7 +14,7 @@ import PaypalReturn from "./pages/shopping-view/PaypalReturn";
 import PaypalCancell from "./pages/shopping-view/PaypalCancell";
 import Listing from "./pages/shopping-view/Listing";
 import CheckoutPage from "./pages/shopping-view/CheckoutPage";
-import AccountPage from "./pages/shopping-view/accountPage";
+import AccountPage from "./pages/shopping-view/AccountPage";
 import { useDispatch, useSelector } from "react-redux";
 import { CheckAuth } from "./redux/auth/authSlice";
 import { useEffect, useState } from "react";
