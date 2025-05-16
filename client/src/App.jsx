@@ -12,7 +12,7 @@ import NotFound from "./pages/shopping-view/notfound/NotFound";
 import Home from "./pages/shopping-view/Home";
 import PaypalReturn from "./pages/shopping-view/PaypalReturn";
 import PaypalCancell from "./pages/shopping-view/PaypalCancell";
-import Listing from "./pages/shopping-view/listing";
+import Listing from "./pages/shopping-view/Listing";
 import CheckoutPage from "./pages/shopping-view/CheckoutPage";
 import AccountPage from "./pages/shopping-view/accountPage";
 import { useDispatch, useSelector } from "react-redux";
